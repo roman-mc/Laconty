@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Roman 👋
+- 🔭 I’m currently working on Ozon (public, nasdaq listed company, Russian's twin of amazon)
+  -  also worked on Yandex (Russian's twin of google)
+  -  ...and several (6) other intersting start-up to mid-size companies
+- 👯 I’m looking to collaborate on open-source project and bring profits to community (as community did it for me) 
+- 📫 How to reach me: [Telegram](t.me/roman_mc)   
 
 <!--
 **Laconty/Laconty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
