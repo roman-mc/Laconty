@@ -3,7 +3,11 @@
   -  also worked on Yandex (Russian's twin of Google) ~2 years
   -  ...and several (6) other intersting start-up to mid-size companies (3 years)
 - 👯 I’m looking to collaborate on open-source project and bring profits to community (as community did it for me) 
-- 📫 How to reach me: [Telegram](t.me/roman_mc)   
+- 📫 How to reach me: [Telegram](t.me/roman_mc)
+
+
+#### Offtopic
+- I regularly donate to censorshipped opposition media in russia (https://donate.zona.media/), and support portests and freedom, Russia will be free!
 
 <!--
 **Laconty/Laconty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
