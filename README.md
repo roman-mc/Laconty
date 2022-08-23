@@ -1,6 +1,7 @@
 ### Hi, I'm Roman 👋
-- 🔭 I’m currently working on Ozon (public, nasdaq listed company, Russian's twin of Amazon) 2 years+
-  -  also worked on Yandex (Russian's twin of Google) ~2 years
+- 🔭 I’m currently working on Midas.investments 
+  -  worked on Ozon (public, nasdaq listed company, Russian's twin of Amazon) 2 years+
+  -  worked on Yandex (Russian's twin of Google) ~2 years
   -  ...and several (6) other intersting start-up to mid-size companies (3 years)
 - 👯 I’m looking to collaborate on open-source project and bring profits to community (as community did it for me) 
 - 📫 How to reach me: [Telegram](t.me/roman_mc)
